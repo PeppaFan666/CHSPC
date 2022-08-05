@@ -1,14 +1,14 @@
-p {
-    color: red;
-}
 
-/* Additional CSS rules */
+
 body {
   background-color: rgb(94, 94, 94);
 }
 
 h1 {
-  font-size: 24px;
+  font-size: 80px;
+}
+p{
+  font-size: 40px;
 }
 
 .text {
@@ -25,5 +25,16 @@ button{
     box-shadow: none;
     font-family: Arial, Helvetica, sans-serif;
     font-style: italic;
-    size: 26px;
+}
+
+a{
+  font-size: 60px;
+}
+.text-center {
+  text-align: right;
+  size: 60px;
+}
+.page-go{
+  height:60px;
+  width:100px;
 }
