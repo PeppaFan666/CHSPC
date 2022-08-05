@@ -32,6 +32,8 @@ a{
 }
 .text-center {
   text-align: right;
+  margin-left: 1100px;
+  position: absolute;
   size: 60px;
 }
 .page-go{
